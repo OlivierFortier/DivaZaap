@@ -12,5 +12,6 @@ Useful to make your own private server.
 
 This software is made with Wails. Run `make install-wails` to install Wails. You can then run with `make dev`.
 
+
 ## Screenshot
 ![Screenshot](https://i.imgur.com/G4fO73V.png)
